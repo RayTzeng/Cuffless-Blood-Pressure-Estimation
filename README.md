@@ -5,6 +5,6 @@ This is a Cuffless Blood Pressure Estimation project using several regressoin mo
 
 # Requirements
 
-Requires Python=3.8
-Requires module is in Reqiurements.txt
+Requires Python=3.8.
+Required modules can be installed usnig Reqiurements.txt
 
